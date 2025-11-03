@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Raj</h1>
-<p align="center">Full‑Stack Developer | AI/ML Enthusiast</p>
+<p align="center"><b>Full‑Stack Developer | AI/ML Enthusiast</b></p>
+<h3 align="center">A Passionate Web Developer from India</h3>
 
 <p align="center">
   <a href="mailto:priyanshuraj30405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -13,6 +14,7 @@
 - I’m a full‑stack developer and AI/ML enthusiast who loves shipping useful products.
 - Comfortable across the stack: React/Next.js + Node/Express with MongoDB/MySQL.
 - I enjoy turning ideas into polished, performant apps and automations.
+- Currently exploring LLM tooling, AI‑assisted content generation, and career‑tech.
 - Studying B.Tech CSE at VIT Bhopal University.
 
 ---
@@ -70,12 +72,36 @@
 - Integrated OpenAI for multiple styles and flexible color customization  
 - Real‑time previews, secure auth, high‑quality downloads, cloud storage, easy sharing  
 - Robust backend and efficient DB management; deployed on Vercel  
+- [Demo/Repo](#) • [Case Study](#)
 
 #### AI Career Coach Agent — Python, LangChain, OpenAI, Streamlit
 - Personalized advice, resume feedback, and interview prep with context‑aware coaching  
 - Vector database for efficient storage and retrieval of recommendations and career data  
 - Natural language interactions and actionable career paths for users  
-  
+- Deployed on Streamlit for accessible experience  
+- [Demo/Repo](#) • [Case Study](#)
+
+---
+
+### 🏅 Certifications
+- Full Stack Developer (MERN)  
+- MongoDB Database Management  
+- Java Programming Fundamentals  
+- NPTEL Global Marketing Management  
+- NPTEL Supply Chain Analytics  
+- Coursera Digital Marketing & E‑commerce
+
+---
+
+### 🌐 Languages
+- English: Professional Working Proficiency  
+- Hindi: Native or Bilingual Proficiency
+
+---
+
+### 🎯 Interests
+- Chess, Cricket, Traveling, Driving  
+- Problem Solving, Web Development
 
 ---
 
@@ -96,6 +122,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshu30405&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
 
 
