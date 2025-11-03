@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 - B.Tech in Computer Science & Engineering at VIT Bhopal University
-- The Chandrasekhar School (Higher Secondary)
+- The Chandrasheel School (Higher Secondary)
 - Passionate about building AI‑powered products and scalable web apps
 
 ---
@@ -92,5 +92,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshu30405&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
 
 
