@@ -2,13 +2,8 @@
 <p align="center">Full‑Stack Developer | AI/ML Enthusiast</p>
 
 <p align="center">
-  <a href="https://github.com/priyanshu30405">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2500&pause=600&color=33D1FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=60&lines=Welcome+to+my+GitHub!;I+build+full‑stack+and+AI+projects" alt="Typing SVG" />
-  </a>
-  <br/>
   <a href="mailto:priyanshuraj30405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/priyanshu-raj-0b4a9624b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
 </p>
 
 ---
@@ -28,14 +23,41 @@
 ---
 
 ### 🧰 Tech Stack
+
+#### 🗣️ Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,tailwind,nodejs,express,fastapi,flask,mongodb,mysql,aws,gcp,vercel,firebase,supabase,docker,cloudflare,tensorflow,numpy,scikitlearn,opencv,git,github,vscode" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff" />
 </p>
 
-- Frontend: React.js, Tailwind CSS, Responsive Web Design  
-- Backend: Node.js, Express.js, RESTful APIs, Auth  
-- Databases/Cloud: MongoDB, MySQL, AWS, GCP, Vercel, Render  
-- Dev Tools: Git, GitHub, VS Code, API Testing
+#### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
+</p>
+
+#### 🧩 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
+</p>
+
+#### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9900" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff" />
+</p>
 
 ---
 
