@@ -7,8 +7,7 @@
   </a>
   <br/>
   <a href="mailto:priyanshuraj30405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-link-here" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/your-leetcode/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/priyanshu-raj-0b4a9624b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
 </p>
 
@@ -16,7 +15,7 @@
 
 ### 🧑‍💻 About Me
 - B.Tech in Computer Science & Engineering at VIT Bhopal University
-- The Chandrasheel School (Higher Secondary)
+- The Chandrasekhar School (Higher Secondary)
 - Passionate about building AI‑powered products and scalable web apps
 
 ---
@@ -24,7 +23,7 @@
 ### 🔗 Connect
 - Email: `priyanshuraj30405@gmail.com`
 - GitHub: `@priyanshu30405`
-- LinkedIn: `https://www.linkedin.com/in/your-link-here`
+- LinkedIn: `https://www.linkedin.com/in/priyanshu-raj-0b4a9624b/`
 
 ---
 
@@ -92,6 +91,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshu30405&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
 
 
