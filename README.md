@@ -79,26 +79,6 @@
 
 ---
 
-### 🏅 Certifications
-- Full Stack Developer (MERN)  
-- MongoDB Database Management  
-- Java Programming Fundamentals  
-- NPTEL Global Marketing Management  
-- NPTEL Supply Chain Analytics  
-- Coursera Digital Marketing & E‑commerce
-
----
-
-### 🌐 Languages
-- English: Professional Working Proficiency  
-- Hindi: Native or Bilingual Proficiency
-
----
-
-### 🎯 Interests
-- Chess, Cricket, Traveling, Driving  
-- Problem Solving, Web Development
-
 ---
 
 ### 📊 GitHub Analytics
@@ -113,5 +93,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshu30405&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
 
 
