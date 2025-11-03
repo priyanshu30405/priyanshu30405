@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Raj</h1>
-<p align="center"><b>Full‑Stack Developer | AI/ML Enthusiast</b></p>
 <h3 align="center">A Passionate Web Developer from India</h3>
+<br/>
 
 <p align="center">
   <a href="mailto:priyanshuraj30405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
